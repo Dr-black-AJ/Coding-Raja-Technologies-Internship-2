@@ -1,0 +1,14 @@
+[
+  {
+    "type": "income",
+    "amount": 50000.0,
+    "category": "it",
+    "date": "2024-01-09 11:01:30"
+  },
+  {
+    "type": "expense",
+    "amount": 400.0,
+    "category": "food",
+    "date": "2024-01-09 11:01:51"
+  }
+]
